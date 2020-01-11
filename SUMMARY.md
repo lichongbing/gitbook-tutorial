@@ -1,4 +1,6 @@
 # Table of contents
+
+* [Introduction](README.md)
 * [Introduction](README.md)
 * [预备周：基于认知科学的信息训练法](ch0/preface.md)
   * [检索实操](ch0/RepSearchPractice.md)
@@ -36,6 +38,7 @@
   * [进阶任务](ch6/RepTaskAdvanced.md)
   * [个人教程](ch6/handbook.md)
 * [结业大作业](ch8/README.md)
+  * [滚滚滚](ch8/gun-gun-gun.md)
   * [个人教程](ch8/handbook.md)
 * [备注](ps/handbooks.md)
 * [参考文献](ps/ref.md)
